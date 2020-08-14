@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bose img {
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.azad img {
+    height: 200px;
+    width: 200px;
+    margin-left: 120px;
+}
+
+.gandhi img {
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: -600px;
+}
+
+.lal img {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: -435px;
+}
+
+.lala img {
+    height: 200px;
+    width: 200px;
+    margin-left: 900px;
+    margin-top: -900px;
+}
+
+.sarojini img {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -450px;
+}
+
+#hello {
+    text-align: center;
+    background-color: lavender;
+}
+
+.whole {
+    background-color: lightsteelblue;
+}
+
+.back {
+    border: 2px solid bisque;
+    background-color: lightsalmon;
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+}

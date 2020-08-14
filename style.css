@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: darkgreen;
+    font-family: "Suwannaphum", cursive;
+    background-image: linear-gradient(#ff6434, #ffffff, #138808);
+}
+
+.header img {
+    height: 500px;
+    width: 500px;
+    margin-left: -500px;
+}
+
+#good {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -450px;
+}
+
+#end {
+    color: brown;
+}
+
+.blue_text {
+    color: orange;
+}
+
+.orange_text {
+    color: white;
+}
+
+.text {
+    color: darkgreen;
+    text-align: center;
+    background-image: linear-gradient(#eecda3, #ef629f);
+    padding: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.boxed {
+    border: 2px solid blue;
+}
+
+#end:hover {
+    background-image: linear-gradient(orange, white, lightgreen);
+    margin-right: 500px;
+    margin-left: 500px;
+
+}

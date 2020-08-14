@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#box {
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: lawngreen;
+}
+
+.container {
+    padding: 10px;
+}
+
+.pack {
+    padding: 10px;
+}
+
+.deliver {
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+
+.ship {
+    padding: 10px;
+    margin-left: 500px;
+}
+
+.order {
+    padding: 10px;
+    margin-left: 950px;
+    margin-top: -440px;
+}
+
+.receive {
+    padding: 10px;
+    margin-left: 950px;
+}
+
+.entire {
+    background-color: lightgoldenrodyellow;
+}
+
+.back {
+    border: 2px solid bisque;
+    background-color: lightsalmon;
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+}
